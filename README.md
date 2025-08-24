@@ -1,5 +1,6 @@
 
 
+![Banner](/bloqueos-cloudflare.svg)
 ![Banner](/banner.svg)
 
 
